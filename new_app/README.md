@@ -4,7 +4,7 @@
 
 This project is a simple chat application UI built with Flutter. The goal was to **replicate the chat screen design** shown in the provided reference image as closely as possible, focusing on layout, styling, and user interface components.
 
-![Screenshot](image.png)
+![Screenshot](mmm.png)
 
 - **Custom App Bar:**  
   - Back arrow, user avatar, user name ("Jhon Abraham"), "Active now" status, call and video icons.
