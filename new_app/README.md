@@ -32,7 +32,7 @@ lib/
 ## 🖼️ Assets
 
 - Place your avatar image at:  
-  `assets/images/avatar21.jpg`
+  `image/9.jpg`
 - Make sure to add this path to your `pubspec.yaml` under `assets:`.
 
 ## 🚀 Getting Started
